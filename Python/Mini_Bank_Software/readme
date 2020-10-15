@@ -1,0 +1,16 @@
+readme 
+—>Download All Files 
+—>Kept All files at one place
+—>Double Click on 'AccountUser.py'
+—>BankAccounts.py  is an Additional File to keep track of all Entries you have Written till now
+
+and See my mini Bank Software:
+
+In this I have Used 3 Classes
+1) ACCOUNT Class --> Parent Class
+2) SAVINGS Class --> Child of ACCOUNT Class
+3) CURRENT Class --> Child of ACCOUNT CLass
+
+After That I am Storing Each Object into BankAccounts.txt File By Converting them into String
+
+_Note:-_  You Should Have a Python 3 or later Version Installed On your Computer
