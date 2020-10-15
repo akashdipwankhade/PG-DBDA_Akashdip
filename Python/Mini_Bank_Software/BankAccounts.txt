@@ -1,0 +1,8 @@
+22|Dhanashree|65000|Current|34
+11|Ashwini|57000|Savings|123
+12|Akash|45000|Savings|122
+13|Shubham|35000|Savings|133
+33|Abhinav|45000|Current|34
+34|Pratiksha|50000|Current|30
+44|Pranita|45000|Current|33
+88|Sanket|50000|Current|43
