@@ -78,9 +78,9 @@ def getBalance(acc_id):
         return False
 
 def deleteAccount(acc_id):
-    for ob in acc_lst:
+    for i,ob in enumerate(acc_lst):
         if ob.get_id()==acc_id:
-            acc_lst.pop(ob)
+            acc_lst.pop(i)
             return True
     return False
 
